@@ -1,0 +1,17 @@
+{
+  "name": "flipdev/theme-frontend-foundation",
+  "description": "Zurb Foundation V6.x Mage2 theme",
+  "type": "magento2-theme",
+  "version": "0.0.1",
+  "require": {
+    "php": "|~7.4.0",
+    "magento/framework": "100.1.*",
+    "snowdog/theme-frontend-alpaca": "<latest-version>",
+    "flipdev/foundation-child-theme-frontools": "<latest-version>"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
