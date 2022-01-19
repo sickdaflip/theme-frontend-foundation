@@ -1,0 +1,2 @@
+# theme-frontend-foundation
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c79f4a47b11e4a0e8ec38aeae0a2c10d)](https://app.codacy.com/gh/sickdaflip/theme-frontend-foundation?utm_source=github.com&utm_medium=referral&utm_content=sickdaflip/theme-frontend-foundation&utm_campaign=Badge_Grade_Settings)
